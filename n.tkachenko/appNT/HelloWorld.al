@@ -12,4 +12,5 @@ pageextension 50109 CustomerListExt extends "Customer List"
     //begin
     //    Message('App published: Hello world');
     //end;
+    //
 }
