@@ -6,11 +6,11 @@ namespace DefaultPublisher.appNT;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50109 CustomerListExt extends "Customer List"
-{
-    //trigger OnOpenPage();
-    //begin
-    //    Message('App published: Hello world');
-    //end;
-    //
-}
+//pageextension 70100 CustomerListExt extends "Customer List"
+//{
+//trigger OnOpenPage();
+//begin
+//    Message('App published: Hello world');
+//end;
+//
+//}
